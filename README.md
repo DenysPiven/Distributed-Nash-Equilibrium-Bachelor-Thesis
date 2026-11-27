@@ -25,6 +25,9 @@ thesis/
 tex/
   main.tex                                             LaTeX source
   *.png                                                figures
+presentation/
+  main.tex                                             defense slides source (Beamer, 14 June 2022)
+  *.png, *.jpg                                         slide images
 src/WindowsFormsApp1/                                  numerical experiments (C#, WinForms)
 ```
 
@@ -33,6 +36,8 @@ src/WindowsFormsApp1/                                  numerical experiments (C#
 ```
 cd tex && pdflatex main.tex && pdflatex main.tex
 ```
+
+Slides: the same command in `presentation/`.
 
 ## Code
 
