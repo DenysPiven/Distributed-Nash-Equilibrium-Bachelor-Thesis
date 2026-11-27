@@ -14,7 +14,7 @@ The thesis studies distributed algorithms for finding Nash equilibria in network
 2. A linearly convergent algorithm for networked aggregative games
 3. A proximal-point based algorithm for locally coupled network games with unknown parameters (distributed learning)
 
-Continues the 3rd-year coursework [Nash-Equilibrium-Coursework-2021](https://github.com/DenysPiven/Nash-Equilibrium-Coursework-2021).
+Continues the 3rd-year coursework [Nash-Equilibrium-Coursework](https://github.com/DenysPiven/Nash-Equilibrium-Coursework).
 
 ## Contents
 
