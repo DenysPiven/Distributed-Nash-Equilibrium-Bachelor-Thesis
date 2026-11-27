@@ -22,8 +22,16 @@ Continues the 3rd-year coursework [Nash-Equilibrium-Coursework-2021](https://git
 thesis/
   Distributed_Nash_equilibrium_search_algorithms.pdf   thesis text
   presentation.pdf                                     defense slides
-  figures/                                             plots used in the thesis
+tex/
+  main.tex                                             LaTeX source
+  *.png                                                figures
 src/WindowsFormsApp1/                                  numerical experiments (C#, WinForms)
+```
+
+## Building the PDF
+
+```
+cd tex && pdflatex main.tex && pdflatex main.tex
 ```
 
 ## Code
